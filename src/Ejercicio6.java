@@ -39,5 +39,4 @@ public class Ejercicio6 {
         }
         System.out.print("\n");
     }
-
 }
