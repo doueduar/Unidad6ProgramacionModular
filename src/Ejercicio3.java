@@ -29,7 +29,7 @@ public class Ejercicio3 {
         int i = 0;
         do {
             if (a==N[i]) {
-                System.out.println("verdadero");
+                System.out.println("VERDADERO");
                 a = 0;
             }
             i++;
